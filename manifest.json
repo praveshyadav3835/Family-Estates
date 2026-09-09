@@ -1,0 +1,17 @@
+{
+  "name": "Family Wealth — Real Estate Portfolio",
+  "short_name": "Family Wealth",
+  "description": "Family real estate portfolio ledger, capital tracking, and valuation dashboard",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1C1914",
+  "theme_color": "#C9A567",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
